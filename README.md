@@ -1,5 +1,7 @@
 # 🧪 Playwright Test Automation Framework — OrangeHRM Demo
 
+
+
 <p align="center">
 🚀 Scalable • 🧱 Maintainable • ⚡ Fast • 🎯 Test Pyramid Driven
 </p>
@@ -43,3 +45,8 @@ This framework is intentionally structured around the **Test Pyramid**, ensuring
          🔺🔺🔺🔺🔺🔺
         🔺🔺🔺🔺🔺🔺🔺     Unit Tests (70%)
        🔺🔺🔺🔺🔺🔺🔺🔺
+
+
+🚧 This repository is a work in progress.  
+Updates, improvements, and additional documentation will be added regularly.
+
